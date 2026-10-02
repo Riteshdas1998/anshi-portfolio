@@ -3,7 +3,7 @@ import personPic from '../assets/about-person.png'; // আপনার ছবি
 const About = () => {
   return (
     // সেকশনের প্যাডিং কমানো হয়েছে (py-6 lg:py-8)
-    <section className="bg-[#0056b3] py-6 lg:py-8">
+    <section id="about" className="bg-[#0056b3] py-6 lg:py-8">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         <div className="flex flex-col md:flex-row items-center gap-8 lg:gap-12">

@@ -68,7 +68,7 @@ const Testimonials = () => {
 
   return (
     // ৩. ব্যাকগ্রাউন্ড bg-white করে দেওয়া হয়েছে
-    <section className="py-16 lg:py-24 bg-white relative">
+    <section id="testimonials" className="py-16 lg:py-24 bg-white relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* হেডার এবং অ্যারো বাটন */}
