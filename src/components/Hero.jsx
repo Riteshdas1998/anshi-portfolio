@@ -3,6 +3,7 @@ import mobileBg from '../assets/hero-mobile.jpeg';
 
 const Hero = () => {
   return (
+    <section id="home">
     <div className="relative w-full h-[500px] md:h-[600px] lg:h-[700px] flex items-center">
       
       {/* ডেস্কটপ ব্যাকগ্রাউন্ড ইমেজ */}
@@ -54,6 +55,7 @@ const Hero = () => {
       </div>
       
     </div>
+  </section>
   );
 };
 
