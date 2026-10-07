@@ -41,7 +41,7 @@ const Contact = () => {
           <p className="text-[#c25934] text-sm font-bold tracking-widest uppercase mb-3">
             Get In Touch
           </p>
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#0056b3]" style={{ fontFamily: 'serif' }}>
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#FFFFF]" style={{ fontFamily: 'serif' }}>
             We'd Love to Hear From You
           </h2>
           <p className="mt-4 text-gray-500 text-lg">

@@ -77,7 +77,7 @@ const Testimonials = () => {
             <p className="text-[#c25934] text-sm font-bold tracking-widest uppercase mb-3">
               Customer Stories
             </p>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#0056b3]" style={{ fontFamily: 'serif' }}>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#FFFFF]" style={{ fontFamily: 'serif' }}>
               Loved by Our Patrons
             </h2>
           </div>
